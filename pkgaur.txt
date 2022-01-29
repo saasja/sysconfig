@@ -1,0 +1,12 @@
+github-desktop
+gnome-network-displays-git
+ipfs-desktop
+protonvpn
+purple-mm-sms
+rpi-imager
+smstools3
+vmware-workstation
+wpa_supplicant_gui
+xmm7360-pci-utils-git
+xmm7360-usb-modeswitch-git
+yay
