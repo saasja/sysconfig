@@ -1,0 +1,10 @@
+2022/01/29-20:41:29.215 57e Creating DB /home/suki/.config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb since it was missing.
+2022/01/29-20:41:29.219 57e Reusing MANIFEST /home/suki/.config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/29-20:41:31.342 5bb Level-0 table #5: started
+2022/01/29-20:41:31.345 5bb Level-0 table #5: 3223 bytes OK
+2022/01/29-20:41:31.348 5bb Delete type=0 #3
+2022/01/29-20:41:31.348 572 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/01/29-20:41:31.348 572 Level-0 table #7: started
+2022/01/29-20:41:31.350 572 Level-0 table #7: 982 bytes OK
+2022/01/29-20:41:31.351 572 Delete type=0 #4
+2022/01/29-20:41:31.351 572 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

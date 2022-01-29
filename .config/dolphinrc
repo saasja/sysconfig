@@ -1,0 +1,15 @@
+[General]
+Version=201
+ViewPropsTimestamp=2022,1,29,20,41,40.868
+
+[KPropertiesDialog]
+eDP1 Height 1920x1080=364
+eDP1 Width 1920x1080=493
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP1 Height 1920x1080=776
+eDP1 Width 1920x1080=1446
+eDP1 XPosition 1920x1080=261
+eDP1 YPosition 1920x1080=164
